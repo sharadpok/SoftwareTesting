@@ -14,6 +14,6 @@ public class highestNumberInArray {
 
             }
         }
-        System.out.println("Maximum number in the array is: "+ max);
+        System.out.println("Maximum number in the existing  array is: "+ max);
     }
 }
